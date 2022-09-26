@@ -1,0 +1,36 @@
+---
+projects:
+  - name: projet1 
+    libraries:
+      - name: libINSA
+        version: V1.2
+        description: blabla
+      
+      - name: libAERO
+        version: V1.1
+        description: blibli
+
+    servers:
+      - name: Guacamole
+        URL: https://blablabla
+
+      - name: Mangue
+        URL: https://bliblibli
+  
+  - name: projet2 
+    libraries:
+      - name: libX
+        version: V1.2
+        description: ohoh
+      
+      - name: libY
+        version: V1.1
+        description: wowo
+
+    servers:
+      - name: BIMBAMBOUM
+        URL: https://ohohoh
+
+      - name: KCORP
+        URL: https://wowowo
+
